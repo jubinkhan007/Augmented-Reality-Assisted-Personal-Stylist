@@ -31,6 +31,8 @@ The Virtual Try-On App is equipped with a range of features, including:
 
 * ultiple clothing categories: The app features a wide range of clothing categories, including eyewear, headgear etc.
 
+* AI aissted personalised recommendation system. 
+
 Shareable try-on images: The app allows users to capture and share images of their virtual try-ons with friends and family, making it easier for them to get feedback and opinions on different outfits.
 
 ## Contributing
