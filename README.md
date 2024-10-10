@@ -7,7 +7,7 @@ To use the Virtual Try-On App, you will need to have the Flutter SDK installed o
 Once you have the Flutter SDK installed, you can clone this repository to your local machine:
 
 ```
-git clone https://github.com/shreyassai123/virtual-tryon.git
+git clone https://github.com/jubinkhan007/Augmented-Reality-Assisted-Personal-Stylist.git
 ```
 
 After cloning the repository, navigate to the project directory and run the following command to download the required dependencies:
